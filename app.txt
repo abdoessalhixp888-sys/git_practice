@@ -1,3 +1,1 @@
-version 1
-Adding new features
-Pro settings
+Original line from Master
